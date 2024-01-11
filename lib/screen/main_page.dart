@@ -12,7 +12,7 @@ class _MainpageState extends State<Mainpage> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Todolist'),
+          title: Text('Todolist!'),
         ),
         body: (Column(
           mainAxisAlignment: MainAxisAlignment.start,
