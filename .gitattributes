@@ -1,3 +1,5 @@
 /* .gitattributes */
 
-*.cpp linguist-vendored=True
+* linguist-vendored
+*.Dart linguist-vendored=False
+*.Swift linguist-vendored=False
