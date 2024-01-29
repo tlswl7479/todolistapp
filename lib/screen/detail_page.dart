@@ -31,7 +31,7 @@ class _detailpageState extends State<detailpage> {
               shrinkWrap: true, //스크롤 가능한 위젯에서 주로 사용되는 속성
               //ListView가 내부의 컨텐츠를 Column에 맞게 크기 조절
               // itemCount: Items.length,//리스트에 표시할 아이템 총 개수
-              itemBuilder: (context, index) { //생성할 위젯을 반환하는 함수
+              itemBuilder: (context, index) { //생성할 위젯을 반환하는 함수 이다.
 
                 return Container(
                   alignment: Alignment.center,
