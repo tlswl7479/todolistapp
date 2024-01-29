@@ -10,7 +10,7 @@ class IntroPage extends StatelessWidget {
     },);
 
     return const Scaffold(
-      backgroundColor: Colors.limeAccent,
+      backgroundColor: Color(0xFFDBFF76),
       // appBar: AppBar(
       //   title: Text('메인화면'),
       // ),
